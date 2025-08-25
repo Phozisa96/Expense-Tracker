@@ -20,6 +20,21 @@ Users can set their monthly salary, record expenses by category, and view report
   - Percentage of salary spent  
 - Get **savings tips** and **overspending warnings**  
 
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Java 17+ (works on 11+, tested on OpenJDK 24)  
+- IntelliJ IDEA or any Java IDE  
+
+### Run the Program
+1. Clone or download this repository.  
+2. Open the project in IntelliJ IDEA.  
+3. Run `ExpenseTracker.java`.  
+4. Use the menu in the console to interact with the app.  
+
 ---
 
 
