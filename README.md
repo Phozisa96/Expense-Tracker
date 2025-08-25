@@ -24,7 +24,9 @@ Users can set their monthly salary, record expenses by category, and view report
 ## 🏗 Project Structure
 src/
 └── ExpenseTracker.java # Main program with menu + logic
+
 └── Expense.java # Represents an expense
+
 └── Salary.java # Represents the user’s salary
 ---
 
