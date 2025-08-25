@@ -28,6 +28,7 @@ src/
 └── Expense.java # Represents an expense
 
 └── Salary.java # Represents the user’s salary
+
 ---
 
 ## 🚀 Getting Started
