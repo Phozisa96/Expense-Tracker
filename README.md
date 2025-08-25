@@ -22,4 +22,5 @@ Users can set their monthly salary, record expenses by category, and view report
 
 ---
 
-## 🏗 Project Structure
+
+
