@@ -18,9 +18,14 @@ Users can set their monthly salary, record expenses by category, and view report
   - Overall spending  
   - Remaining balance  
   - Percentage of salary spent  
-- Get **savings tips** and **overspending warnings**  
-
-
+- Get **savings tips** and **overspending warnings**
+  
+---
+## 🏗 Project Structure
+src/
+└── ExpenseTracker.java # Main program with menu + logic
+└── Expense.java # Represents an expense
+└── Salary.java # Represents the user’s salary
 ---
 
 ## 🚀 Getting Started
